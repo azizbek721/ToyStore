@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab781c9d.css",
+    "main.js": "/static/js/main.802ec7fc.js",
+    "static/media/header.png": "/static/media/header.17c27c1a27ce64425334.png",
+    "static/media/olen.png": "/static/media/olen.db02101b1b4873c97731.png",
+    "static/media/heroes.png": "/static/media/heroes.de87d0ef121c4fa46810.png",
+    "static/media/bear.png": "/static/media/bear.00dd63fa0ecdd9a29e63.png",
+    "static/media/stars.png": "/static/media/stars.2fb8f3b1bacb46db50b8.png",
+    "static/media/flower.png": "/static/media/flower.a8bc189be6b743fd2ce8.png",
+    "static/media/figure.png": "/static/media/figure.154e81113a99ded865a2.png",
+    "static/media/bardon.png": "/static/media/bardon.27fea50557184b6bed2c.png",
+    "static/media/monkey.png": "/static/media/monkey.51e3091e02ea9b99c4ba.png",
+    "static/media/foxy.png": "/static/media/foxy.3ab40099fecc58e9db2b.png",
+    "static/media/stickman.png": "/static/media/stickman.fa6fcdf9d1fca70e7975.png",
+    "static/media/doggy.png": "/static/media/doggy.110817f8bf7332d87dbb.png",
+    "static/media/mutant.png": "/static/media/mutant.2959bcde6338c91695fa.png",
+    "static/media/transport.png": "/static/media/transport.71b7496d41b160751cc4.png",
+    "static/media/camera.png": "/static/media/camera.59474932f79f53085136.png",
+    "static/media/white.png": "/static/media/white.adcb44efe6445bdc77b1.png",
+    "static/media/rabbit.png": "/static/media/rabbit.762aef8ac633e0e962d5.png",
+    "index.html": "/index.html",
+    "main.ab781c9d.css.map": "/static/css/main.ab781c9d.css.map",
+    "main.802ec7fc.js.map": "/static/js/main.802ec7fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab781c9d.css",
+    "static/js/main.802ec7fc.js"
+  ]
+}
